@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(200, 241, 205);
+}
+
+img{
+    float: right;
+}
+p{
+    font-size: larger;
+}
+h1{
+    color: rgb(34, 174, 88); 
+}

@@ -1,0 +1,29 @@
+body{
+background-color: rgb(200, 241, 205);
+color: rgb(0, 0, 0);
+font-weight: 700;
+font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size:xx-large;
+    color: rgb(34, 174, 88);
+    
+}
+h2{
+font-size: xx-large;
+color: rgb(34, 174, 88);
+}
+h3{
+    font-size: xx-large;
+    color: rgb(34, 174, 88);
+}
+h4{
+    font-size: xx-large;
+    color: rgb(34, 174, 88);
+}
+div img{
+    width: 400px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+    margin-left: 00px;
+    float: right;}
